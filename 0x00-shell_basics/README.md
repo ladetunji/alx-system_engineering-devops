@@ -1,2 +1,0 @@
-# About
-Current working directory
